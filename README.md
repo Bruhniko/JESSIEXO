@@ -1,3 +1,1 @@
-<img src="./cat.gif" width="200" />
-
-
+ <img src="./cat.gif" width="150" />  <img src="./cat.gif" width="150" />  <img src="./cat.gif" width="150" /> 
