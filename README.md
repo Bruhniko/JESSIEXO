@@ -1,2 +1,3 @@
-![cat](./cat.gif)
+<img src="./cat.gif" width="200" />
+
 
